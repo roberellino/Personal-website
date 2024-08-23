@@ -11420,7 +11420,7 @@ pre .code {
   z-index: 2;
   box-shadow: 0 5px 1px rgba(128, 128, 128, 0.13);
   width: 130px;
-  border-radius: 50%;
+  border-radius: 30%;
 }
 
 .navbar .brand .brand-txt {
